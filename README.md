@@ -1,7 +1,7 @@
 # This is a new BlockChain
 
 Officailly here to take some classes
-- Elon
+- Elon Musk
 - Vlad
-- Buffet
-- SAM
+- Warren Buffet
+- Sam Harris
