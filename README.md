@@ -3,7 +3,7 @@
 Officailly here to take some classes
 - Elon Musk
   - fear is not real
-- Vlad
+- Vlad Tenev
   - the young are doing well
 - Warren Buffet
   - slowly collecting rent
