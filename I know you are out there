@@ -4,6 +4,39 @@ Hash: 210f44306275db3d8458b30b27485b23082e9d54
 Setting the record straight is a strangely humbling experience.
 I leave the work to be done in the hands of those more capable.
 
+The lightbulb idea that came from all of this...
+
+ - Graph Network of Ideas.
+ - The Official Human Mind Map.
+ - The Mind Map of Conscious Beings.
+
+In Practicality - The current working idea for a project
+ - Create an Encyclopedia that is specific to each individual
+ 	- based on G(V,E) where V are topics and E is education
+ - Educational Tool
+ - All idea are connected... or should be connected
+ - V are topics
+	- Encyclopedia entry
+		- Apps
+		- Webpage
+		- Books
+		- Ideally, it would be a "tome" of knowledge on a particular subject
+	- Practical knowledge
+		- Any physical experience that is required to understand topic
+	- Foremost expertise
+ - E are Education
+	- The necessary education to move from one topic to the next
+	- Assisted by the best AI
+	- Assisted by the best teachers
+	- Assisted by the best tools
+	- Assisted by the best environment
+
+(Think Skill Tree)
+ - An Actual Skill Tree (example RPGs)
+ - Implement using Graph Database
+ - The V contain information about mastery of Topic
+ - The E contain information about using the previous mastery to advance to the next V(Topic)
+
 I for one still have love to pursue.
 A life to live.
 And a happy ending to find.
