@@ -1,7 +1,9 @@
 # This is a new BlockChain
 
-A simple insight into BlockChains is that a lot of energy goes into mining them.
-This mining is quite wasteful.
+One insight gathered from my understanding of BlockChains is that a lot of energy goes into mining.
+Each attempt at mining may seem unsuccessful and fruitless, but in reality they build the experience nessessary to accomplish the task at hand.
 
-It'll really be an improvement if somehow besides testing for hashkeys, the mining algorithm solves for important problems on the side.
-Ideally, important questions can be converted into hashing algorithms, and then we would let the blockchain solve for them as people spend energy working towards the solution.
+One aspect of a change I would purpose is that the mining algorithms for solving hashes would include in it the computation neccessary to solve the hardest pressing "mathmatical" questions.
+
+Simply put, there is reward for trying.
+There is no mistake too big to make...
